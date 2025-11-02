@@ -72,5 +72,7 @@ li {
 }
 
 .main-page-link {
+    margin: 15px auto;
     display: block;
+    width: 550px;
 }
